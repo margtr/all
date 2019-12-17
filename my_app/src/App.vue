@@ -48,6 +48,13 @@ export default {
 width: 100%;
 height: 100%;
 }
+body {
+  color: #232628;
+    font-family: SourceHanSansCN, -apple-system, Verdana, Arial, Helvetica, sans-serif;
+    -webkit-tap-highlight-color: transparent;
+    font-size: 14px;
+    box-sizing: border-box;
+}
 .tabbar {
     position: fixed;
     left: 0;
@@ -81,6 +88,11 @@ a {
   text-align: center;
   -webkit-box-flex: 1;
 
+}
+.tabbar-item > .navigation {
+  height: 3.5rem;
+  padding-top: 0.28571429rem;
+  box-sizing: border-box;
 }
 
 
