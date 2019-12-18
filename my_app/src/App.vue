@@ -1,34 +1,30 @@
 <template>
-  <div id="app">
-
-      <TabBar></TabBar>
-    <router-view/>
-
-  </div>
+    <div id="app">
+        <router-view />
+        <TabBar></TabBar>
+    </div>
 </template>
 <script>
-import Vue from 'vue';
-import { Icon } from 'vant';
-import TabBar from 'views/TabBar.vue'
+import Vue from "vue";
+import { Icon } from "vant";
+import TabBar from "views/TabBar.vue";
 Vue.use(Icon);
-import tabBar from "./components/tabBar.vue"
+
 export default {
-
-  components: {
-
-      TabBar
-
-  }
-}
+    components: {
+        TabBar
+    }
+};
 </script>
 <style lang="less">
 #app {
-width: 100%;
-height: 100%;
+    width: 100%;
+    height: 100%;
 }
 body {
-  color: #232628;
-    font-family: SourceHanSansCN, -apple-system, Verdana, Arial, Helvetica, sans-serif;
+    color: #232628;
+    font-family: SourceHanSansCN, -apple-system, Verdana, Arial, Helvetica,
+        sans-serif;
     -webkit-tap-highlight-color: transparent;
     font-size: 14px;
     box-sizing: border-box;

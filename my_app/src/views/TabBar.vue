@@ -1,6 +1,6 @@
 <template>
     <div class="tab-bar">
-        <router-link to='/'
+        <router-link to='/home'
                      class="navigation"
                      tag="div">
             <van-icon name="wap-home-o"
@@ -33,9 +33,6 @@
 </template>
 
 <script>
-import Home from "../pages/Home.vue";
-import Category from "../pages/Category.vue";
-import My from "../pages/My.vue";
 
 export default {};
 </script>
@@ -52,9 +49,9 @@ export default {};
     display: flex;
     justify-content: space-around;
     .navigation{
-        flex: 1;
+        
         text-align: center;
-        -webkit-box-flex: 1;
+        
     }
     .router-link-active {
         color: #FF734C;
