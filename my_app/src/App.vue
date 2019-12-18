@@ -1,7 +1,9 @@
 <template>
   <div id="app">
+
       <TabBar></TabBar>
     <router-view/>
+
   </div>
 </template>
 <script>
@@ -9,11 +11,13 @@ import Vue from 'vue';
 import { Icon } from 'vant';
 import TabBar from 'views/TabBar.vue'
 Vue.use(Icon);
-
+import tabBar from "./components/tabBar.vue"
 export default {
 
   components: {
+
       TabBar
+
   }
 }
 </script>
@@ -29,9 +33,4 @@ body {
     font-size: 14px;
     box-sizing: border-box;
 }
-
-
-
-
-
 </style>

@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
+
 import Home from '../pages/Home.vue'
 import Category from '../pages/Category.vue'
 import My from '../pages/My.vue'
@@ -29,6 +30,7 @@ const routes = [
         name: 'my',
         component: My
     }
+
 ]
 
 const router = new VueRouter({
