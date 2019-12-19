@@ -1,0 +1,120 @@
+{
+    "code": 0,
+    "data": {
+        "header": {
+            "view_type": "cells_auto_fill",
+            "body": {
+                "w": 720,
+                "h": 120,
+                "height": "0",
+                "width": "0",
+                "items": [
+                    {
+                        "w": 720,
+                        "h": 120,
+                        "img_url": "//i8.mifile.cn/b2c-mimall-media/e95ade2750a7fde92369b416c7d3176d.jpg",
+                        "path_type": "image",
+                        "margin_left": 0,
+                        "margin_right": 0
+                    }
+                ],
+                "margin_left": 0,
+                "margin_right": 0
+            }
+        },
+        "recom_list": [
+            {
+                "action": {
+                    "type": "product",
+                    "path": "11137",
+                    "log_code": "recom_list_0-1#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=11137",
+                    "recommend_code": "recom_list_0-1#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=11137"
+                },
+                "image_url": "https://img01.hua.com/uploadpic/newpic/9010966.jpg",
+                "is_multi_price": false,
+                "market_price": "239",
+                "name": "一往情深",
+                "price": "239",
+                "product_desc": "精品玫瑰礼盒:19枝红玫瑰，勿忘我0.1扎",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "5828",
+                    "log_code": "recom_list_0-6#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=5828",
+                    "recommend_code": "recom_list_0-6#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=5828"
+                },
+                "image_url": "https://img01.hua.com/uploadpic/newpic/9010011.jpg",
+                "is_multi_price": false,
+                "market_price": "139",
+                "name": "一心一意  ",
+                "price": "139",
+                "product_desc": "玫瑰11枝，粉色勿忘我0.3扎",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "10162",
+                    "log_code": "recom_list_0-7#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=10162",
+                    "recommend_code": "recom_list_0-7#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=10162"
+                },
+                "image_url": "https://img01.hua.com/uploadpic/newpic/9012009.jpg",
+                "is_multi_price": false,
+                "market_price": "298",
+                "name": "忘情巴黎",
+                "price": "298",
+                "product_desc": "33枝红玫瑰",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "10588",
+                    "log_code": "recom_list_0-8#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=10588",
+                    "recommend_code": "recom_list_0-8#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=10588"
+                },
+                "image_url": "https://img01.hua.com/uploadpic/newpic/9012177.jpg",
+                "is_multi_price": false,
+                "market_price": "539",
+                "name": "不变的承诺",
+                "price": "539",
+                "product_desc": "99枝红玫瑰",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "10390",
+                    "log_code": "recom_list_0-9#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=10390",
+                    "recommend_code": "recom_list_0-9#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=10390"
+                },
+                "image_url": "https://img01.hua.com/uploadpic/newpic/9012243.jpg",
+                "is_multi_price": false,
+                "market_price": "198",
+                "name": "恋恋情深",
+                "price": "198",
+                "product_desc": "11枝香槟玫瑰，白色多头百合2枝",
+                "product_tag": ""
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "9561",
+                    "log_code": "recom_list_0-20#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=9561",
+                    "recommend_code": "recom_list_0-20#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=9561"
+                },
+                "image_url": "https://img01.hua.com/uploadpic/newpic/9010877.jpg",
+                "is_multi_price": false,
+                "market_price": "138",
+                "name": "致美丽的你",
+                "price": "138",
+                "product_desc": "红玫瑰11枝，满天星0.3扎，栀子叶0.5扎",
+                "product_tag": ""
+            }
+        ],
+        "title": "为你推荐"
+    },
+    "result": "ok"
+}

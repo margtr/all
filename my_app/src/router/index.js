@@ -4,6 +4,7 @@ import VueRouter from 'vue-router'
 import Home from '../pages/Home.vue'
 import Category from '../pages/Category.vue'
 import My from '../pages/My.vue'
+// import Denglu from "../denglu/dlu.vue"
 Vue.use(VueRouter)
 
 const routes = [
@@ -33,6 +34,11 @@ const routes = [
         path: '/my',
         name: 'my',
         component: My
+    },{
+        path:'/Passport/Login',
+        name:'denglu',
+        component: () => import(/* webpackChunkName: "about" */ '../denglu/dlu.vue')
+
     }
 
 ]

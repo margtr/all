@@ -4,7 +4,7 @@
                      class="navigation"
                      tag="div">
             <van-icon name="wap-home-o"
-                      style="font-size:24px" />
+                      style="font-size:24px;" />
             <p>首页</p>
         </router-link>
         <router-link to='/category'
@@ -48,6 +48,7 @@ export default {};
     bottom: 0;
     display: flex;
     justify-content: space-around;
+    background: #F7F9FA;
     .navigation{
         
         text-align: center;

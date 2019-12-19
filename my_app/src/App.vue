@@ -6,9 +6,10 @@
 </template>
 <script>
 import Vue from "vue";
-import { Icon } from "vant";
+import { Icon,Button } from "vant";
 import TabBar from "views/TabBar.vue";
 Vue.use(Icon);
+Vue.use(Button);
 
 export default {
     components: {
