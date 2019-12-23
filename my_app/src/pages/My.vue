@@ -1,9 +1,10 @@
 <template>
+<div>
     <div class="nav">
                     <!-- 头部 -->
         <header class="headerbar">
             <div class="headerbar-left">
-                <router-link to="" class="navigation"><van-icon name="arrow-left" /></router-link>
+                <router-link to="/home" class="navigation"><van-icon name="arrow-left" /></router-link>
             </div>
             <div class="headerbar-center">
                 <p class="headerbar-content">个人中心</p>
@@ -26,10 +27,14 @@
         <Kefu></Kefu>
         <bz></bz>
          </section>
+</div>
+<TabBar ></TabBar>
+
     </div>
 </template>
 
 <script>
+import TabBar from "../views/TabBar.vue";
 import Haha from '../wode/1.vue'
 import jilu from '../wode/2.vue'
 import Kefu from '../wode/3.vue'
@@ -41,7 +46,9 @@ import bz from '../wode/4.vue'
             Haha,
             jilu,
             Kefu,
-            bz
+            bz,
+             TabBar
+
         },
         methods: {
             jump() {

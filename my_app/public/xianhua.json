@@ -1,0 +1,250 @@
+{
+    "Status": "0",
+    "ErrMsg": null,
+    "DataStatus": 200,
+    "Datas": {
+        "ProductPrices": [
+            {
+                "ItemCode": "9010966",
+                "Price": 239,
+                "LinePrice": 315,
+                "Cpmc": "一往情深",
+                "Instro": "精品玫瑰礼盒:19枝红玫瑰，勿忘我0.1扎",
+                "Sales": "11.6万"
+            },
+            {
+                "ItemCode": "9010011",
+                "Price": 139,
+                "LinePrice": 189,
+                "Cpmc": "一心一意",
+                "Instro": "玫瑰11枝，粉色勿忘我0.3扎",
+                "Sales": "11.2万"
+            },
+            {
+                "ItemCode": "9010855",
+                "Price": 588,
+                "LinePrice": 869,
+                "Cpmc": "用心爱你",
+                "Instro": "99枝：33枝戴安娜＋66枝红玫瑰",
+                "Sales": "3.3万"
+            },
+            {
+                "ItemCode": "9012009",
+                "Price": 298,
+                "LinePrice": 382,
+                "Cpmc": "忘情巴黎",
+                "Instro": "33枝红玫瑰",
+                "Sales": "6.5万"
+            },
+            {
+                "ItemCode": "9012437",
+                "Price": 219,
+                "LinePrice": 282,
+                "Cpmc": "粉雪佳人",
+                "Instro": "戴安娜粉玫瑰11枝、白色香水百合2枝、白色洋桔梗5枝",
+                "Sales": "1502"
+            },
+            {
+                "ItemCode": "9012177",
+                "Price": 569,
+                "LinePrice": 766,
+                "Cpmc": "不变的承诺",
+                "Instro": "99枝红玫瑰",
+                "Sales": "6.2万"
+            },
+            {
+                "ItemCode": "9012450",
+                "Price": 198,
+                "LinePrice": 298,
+                "Cpmc": "韩式系列/初心不负",
+                "Instro": " 韩式花束系列花艺师全新打造，卡罗拉玫瑰11枝、白底粉边洋桔梗5枝、大叶尤加利10枝",
+                "Sales": "733"
+            },
+            {
+                "ItemCode": "9012089",
+                "Price": 389,
+                "LinePrice": 479,
+                "Cpmc": "爱在心头",
+                "Instro": "玫瑰50枝：戴安娜粉玫瑰19枝，红玫瑰31枝",
+                "Sales": "2.0万"
+            },
+            {
+                "ItemCode": "9012452",
+                "Price": 298,
+                "LinePrice": 398,
+                "Cpmc": "韩式系列/一路向阳",
+                "Instro": "向日葵3枝、香槟玫瑰9枝、橙色多头玫5枝、黄色腊梅5枝、大叶尤加利5枝",
+                "Sales": "253"
+            },
+            {
+                "ItemCode": "9012332",
+                "Price": 239,
+                "LinePrice": 306,
+                "Cpmc": "留住好时光",
+                "Instro": "粉绣球1枝，粉雪山玫瑰6枝",
+                "Sales": "8716"
+            },
+            {
+                "ItemCode": "9012092",
+                "Price": 172,
+                "LinePrice": 228,
+                "Cpmc": "母爱",
+                "Instro": "紫红色康乃馨9枝，粉色多头康乃馨10枝",
+                "Sales": "1.5万"
+            },
+            {
+                "ItemCode": "9012440",
+                "Price": 289,
+                "LinePrice": 376,
+                "Cpmc": "星河璀璨",
+                "Instro": "香槟玫瑰9枝、蓝绣球、向日葵、白色洋桔梗、大叶尤加利",
+                "Sales": "866"
+            },
+            {
+                "ItemCode": "9012441",
+                "Price": 198,
+                "LinePrice": 256,
+                "Cpmc": " 语笑嫣然",
+                "Instro": "粉佳人玫瑰9枝、粉色小菊、洋桔梗、大叶尤加利",
+                "Sales": "1713"
+            },
+            {
+                "ItemCode": "9012204",
+                "Price": 338,
+                "LinePrice": 486,
+                "Cpmc": "幸福万年长",
+                "Instro": "红色康乃馨66枝，白边紫色多头康乃馨15枝，栀子叶2扎",
+                "Sales": "3471"
+            },
+            {
+                "ItemCode": "1073033",
+                "Price": 198,
+                "LinePrice": 259,
+                "Cpmc": "一生一世",
+                "Instro": "厄瓜多尔进口永生红玫1朵，双色永生绣球",
+                "Sales": "1.2万"
+            },
+            {
+                "ItemCode": "1073232",
+                "Price": 368,
+                "LinePrice": 499,
+                "Cpmc": "给你我的心-美宝莲星钻小灯管空姐色",
+                "Instro": "正品美宝莲口红＋进口永生玫瑰礼盒",
+                "Sales": "36"
+            },
+            {
+                "ItemCode": "1073247",
+                "Price": 1073247,
+                "LinePrice": 398,
+                "Cpmc": "花好月圆永生花台灯",
+                "Instro": "精选进口奥斯汀永生玫瑰台灯",
+                "Sales": "835"
+            },
+            {
+                "ItemCode": "1073263",
+                "Price": 398,
+                "LinePrice": 498,
+                "Cpmc": "永生花满月艺术台灯/朦胧粉",
+                "Instro": "永生花台灯",
+                "Sales": "88"
+            },
+            {
+                "ItemCode": "5010041",
+                "Price": 178,
+                "LinePrice": 208,
+                "Cpmc": "陪伴左右",
+                "Instro": "2磅(8寸)水果蛋糕",
+                "Sales": "5542"
+            },
+            {
+                "ItemCode": "5302008",
+                "Price": 258,
+                "LinePrice": 358,
+                "Cpmc": "蝶恋花景(8寸)",
+                "Instro": "元祖鲜奶蛋糕，布丁加水果夹层",
+                "Sales": "1898"
+            },
+            {
+                "ItemCode": "5602022",
+                "Price": 218,
+                "LinePrice": 216,
+                "Cpmc": "全心全意(约2磅)",
+                "Instro": "鲜果蛋糕",
+                "Sales": "2010"
+            },
+            {
+                "ItemCode": "5219017",
+                "Price": 198,
+                "LinePrice": 298,
+                "Cpmc": "草莓北海道双层（5寸)",
+                "Instro": "草莓蛋糕",
+                "Sales": "177"
+            },
+            {
+                "ItemCode": "1087022",
+                "Price": 228,
+                "LinePrice": 368,
+                "Cpmc": "布蕾兔暖水袋",
+                "Instro": "寒潮中的法式温暖",
+                "Sales": "754"
+            },
+            {
+                "ItemCode": "1076083",
+                "Price": 259,
+                "LinePrice": 359,
+                "Cpmc": "T400双C银项链女纯银锁骨链镶施华洛世奇锆",
+                "Instro": "双C系列新品，精美苹果礼盒，s925银项链 ",
+                "Sales": "328"
+            },
+            {
+                "ItemCode": "1076062",
+                "Price": 198,
+                "LinePrice": 298,
+                "Cpmc": "星期耳钉礼盒",
+                "Instro": "s925银个性耳钉",
+                "Sales": "1237"
+            },
+            {
+                "ItemCode": "1076050",
+                "Price": 859,
+                "LinePrice": 860,
+                "Cpmc": "迪奥口红#520+迪奥花漾淡香水30ml",
+                "Instro": "口红+香水礼盒套装",
+                "Sales": "235"
+            },
+            {
+                "ItemCode": "1204042",
+                "Price": 348,
+                "LinePrice": 348,
+                "Cpmc": "Felchlin妃亭18粒装巧克力礼盒",
+                "Instro": "德国进口松露夹心巧克力",
+                "Sales": "314"
+            },
+            {
+                "ItemCode": "1201003",
+                "Price": 158,
+                "LinePrice": 358,
+                "Cpmc": "奢悦之美巧克力礼盒",
+                "Instro": "夹心巧克力",
+                "Sales": "4820"
+            },
+            {
+                "ItemCode": "1205053",
+                "Price": 288,
+                "LinePrice": 388,
+                "Cpmc": "手工松露巧克力酒味夹心月亮礼盒14粒",
+                "Instro": "手工酒味夹心巧克力",
+                "Sales": "1478"
+            },
+            {
+                "ItemCode": "1201021",
+                "Price": 99,
+                "LinePrice": 199,
+                "Cpmc": "金尊礼遇多口味夹心巧克力礼盒装25颗",
+                "Instro": "夹心巧克力25颗",
+                "Sales": "60"
+            }
+        ]
+    },
+    "HuaSessionId": null
+}

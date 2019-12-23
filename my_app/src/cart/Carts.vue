@@ -65,8 +65,8 @@ div{
 }
 .goods_item {
   display: inline-block;
-  .w(168);
-  .h(228);
+  width: 46%;
+  height: 50%;
   margin: 5px 6px 0 6px;
   border-radius: 0.1rem;
   overflow: hidden;

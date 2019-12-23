@@ -3,28 +3,27 @@
         <router-link to='/home'
                      class="navigation"
                      tag="div">
-            <van-icon name="wap-home-o"
+            <i class="iconfont icon-shouye1" 
                       style="font-size:24px;" />
             <p>首页</p>
         </router-link>
         <router-link to='/category'
                      class="navigation" tag="div">
-            <van-icon name="coupon-o"
-                      style="font-size:24px" />
+            <i class="iconfont icon-fenlei2" style="font-size:24px" />
             <p>分类</p>
         </router-link>
         <router-link to='/cart'
                      class="navigation"
                      
                      tag="div">
-            <van-icon name="shopping-cart-o"
+            <i class="iconfont icon-cart-full" 
                       style="font-size:24px" />
             <p>购物车</p>
         </router-link>
         <router-link to='/my'
                      class="navigation"
                      tag="div">
-            <van-icon name="user-circle-o"
+            <i class="iconfont icon-smile"
                       style="font-size:24px"  
                       />
             <p>我的</p>

@@ -2,7 +2,7 @@
 <div class="nav">
   <header class="headerbar">
         <div class="headerbar-left">
-            <router-link to="" class="navigation">
+            <router-link to="/my" class="navigation">
               <van-icon name="arrow-left" /></router-link>
         </div>
         <div class="headerbar-center">
@@ -19,14 +19,16 @@
         </div>
         <cart></cart>
     </section>
-   
+   <TabBar ></TabBar>
     </div>
 </template>
 <script>
+import TabBar from "../views/TabBar.vue";
 import cart from "../cart/Carts.vue"
 export default {
    components:{
-     cart
+     cart,
+     TabBar
    }
 };
 </script>

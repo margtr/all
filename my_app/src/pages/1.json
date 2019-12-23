@@ -1,0 +1,75 @@
+App.vue 中设置：
+
+<router-view></router-view>
+<router-view name="left" style="float: left;width: 50%; height: 300px;background-color: #ccc;"></router-view>
+<router-view name="right" style="float: left;width: 50%; height: 300px;background-color: #898;"></router-view>
+1
+2
+3
+index.js中设置：
+
+import Vue from 'vue'
+import Router from 'vue-router'
+import Hello from '@/components/Hello'
+import First1 from '@/components/first1'
+import First2 from '@/components/first2'
+
+Vue.use(Router)
+
+export default new Router ({
+  routes : [
+    {
+      path : '/',
+      name : 'Hello',
+      components : {
+        default : Hello,
+        left : First1,
+        right : First2
+      }
+    }
+  ]
+})
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+下面的设置是当url为/#/first 时，交换两个组件显示的位置
+
+export default new Router ({
+  routes : [
+    {
+      path : '/',
+      name : 'Hello',
+      components : {
+        default : Hello,
+        left : First1,
+        right : First2
+      }
+    }, {
+      path : '/first',
+      name : 'First',
+      components : {
+        default : Hello,
+        left : First2,
+        right : First1
+      }      
+    }
+  ]
+})

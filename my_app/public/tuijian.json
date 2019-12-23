@@ -1,0 +1,97 @@
+{
+    "code": 0,
+    "data": {
+        "header": {
+            "view_type": "cells_auto_fill",
+            "body": {
+                "w": 720,
+                "h": 120,
+                "height": "0",
+                "width": "0",
+                "items": [
+                    {
+                        "w": 720,
+                        "h": 120,
+                        "img_url": "//i8.mifile.cn/b2c-mimall-media/e95ade2750a7fde92369b416c7d3176d.jpg",
+                        "path_type": "image",
+                        "margin_left": 0,
+                        "margin_right": 0
+                    }
+                ],
+                "margin_left": 0,
+                "margin_right": 0
+            }
+        },
+        "recom_list": [
+            {
+                "action": {
+                    "type": "product",
+                    "path": "1073247",
+                    "log_code": "recom_list_0-1#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=11137",
+                    "recommend_code": "recom_list_0-1#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=11137"
+                },
+                "image_url": "https://img01.hua.com/uploadpic/newpic/1073247.jpg_220x240.jpg",
+                "is_multi_price": false,
+                "market_price": "498",
+                "name": "永生花台灯",
+                "Price": 398,
+                "product_desc": "永生花满月艺术台灯/朦胧粉",
+                "product_tag": "以及售卖841件",
+                "product_promo":"爱的承诺"
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "1073232",
+                    "log_code": "recom_list_0-6#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=5828",
+                    "recommend_code": "recom_list_0-6#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=5828"
+                },
+                "image_url": "https://img01.hua.com/uploadpic/newpic/1073232.jpg_220x240.jpg",
+                "is_multi_price": false,
+                "market_price": "469",
+                "name": "给你我的心-美宝莲星钻小灯管空姐色  ",
+                "price": "368",
+                "product_desc": "正品美宝莲口红＋进口永生玫瑰礼盒",
+                "product_tag": "以及售卖3000件",
+                "product_promo":"热销商品"
+                
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "1073263",
+                    "log_code": "recom_list_0-7#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=10162",
+                    "recommend_code": "recom_list_0-7#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=10162"
+                },
+                "image_url": "https://img01.hua.com/uploadpic/newpic/1073263.jpg_220x240.jpg",
+                "is_multi_price": false,
+                "market_price": "398",
+                "name": "永生花台灯",
+                "price": "298",
+                "product_desc": "永生花满月艺术台灯/朦胧粉",
+                "product_tag": "以及售卖6件",
+                "product_promo":"创意新品"
+            },
+            {
+                "action": {
+                    "type": "product",
+                    "path": "1073033",
+                    "log_code": "recom_list_0-8#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=10588",
+                    "recommend_code": "recom_list_0-8#eid=15:12:0:0:0:0:0:0:0:0\u0026tid=BlankRec-78cpaAwFqwUTL0eVFuqCzg==\u0026page=list\u0026pid=10588"
+                },
+                "image_url": "https://img01.hua.com/uploadpic/newpic/1073033.jpg_220x240.jpg",
+                "is_multi_price": false,
+                "market_price": "869",
+                "name": "一生一世",
+                "price": "520",
+                "product_desc": "厄瓜多尔进口永生红玫1朵，双色永生绣球",
+                "product_tag": "以及售卖14 件",
+                "product_promo":"爱的承诺"
+                
+            }
+       
+        ],
+        "title": "查看更多"
+    },
+    "result": "ok"
+}

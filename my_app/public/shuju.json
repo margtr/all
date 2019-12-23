@@ -32,11 +32,12 @@
                 },
                 "image_url": "https://img01.hua.com/uploadpic/newpic/9010966.jpg",
                 "is_multi_price": false,
-                "market_price": "239",
+                "market_price": "315",
                 "name": "一往情深",
                 "price": "239",
                 "product_desc": "精品玫瑰礼盒:19枝红玫瑰，勿忘我0.1扎",
-                "product_tag": ""
+                "product_tag": "以及售卖6.5万件",
+                "product_promo":"经典爆款，年销售冠军！"
             },
             {
                 "action": {
@@ -47,11 +48,12 @@
                 },
                 "image_url": "https://img01.hua.com/uploadpic/newpic/9010011.jpg",
                 "is_multi_price": false,
-                "market_price": "139",
+                "market_price": "189",
                 "name": "一心一意  ",
                 "price": "139",
                 "product_desc": "玫瑰11枝，粉色勿忘我0.3扎",
-                "product_tag": ""
+                "product_tag": "以及售卖6.2万件",
+                "product_promo":"经典爆款，年销售冠军！"
             },
             {
                 "action": {
@@ -62,11 +64,12 @@
                 },
                 "image_url": "https://img01.hua.com/uploadpic/newpic/9012009.jpg",
                 "is_multi_price": false,
-                "market_price": "298",
+                "market_price": "382",
                 "name": "忘情巴黎",
                 "price": "298",
                 "product_desc": "33枝红玫瑰",
-                "product_tag": ""
+                "product_tag": "以及售卖6.3万件",
+                "product_promo":"双色搭配 赏心悦目！"
             },
             {
                 "action": {
@@ -77,11 +80,12 @@
                 },
                 "image_url": "https://img01.hua.com/uploadpic/newpic/9012177.jpg",
                 "is_multi_price": false,
-                "market_price": "539",
+                "market_price": "869",
                 "name": "不变的承诺",
                 "price": "539",
                 "product_desc": "99枝红玫瑰",
-                "product_tag": ""
+                "product_tag": "以及售卖6.4万件",
+                "product_promo":"经典99枝，鼎力推荐！"
             },
             {
                 "action": {
@@ -96,7 +100,8 @@
                 "name": "恋恋情深",
                 "price": "198",
                 "product_desc": "11枝香槟玫瑰，白色多头百合2枝",
-                "product_tag": ""
+                "product_tag": "以及售卖6.6万件",
+                "product_promo":"浪漫唯美 女神挚爱！"
             },
             {
                 "action": {
@@ -111,7 +116,8 @@
                 "name": "致美丽的你",
                 "price": "138",
                 "product_desc": "红玫瑰11枝，满天星0.3扎，栀子叶0.5扎",
-                "product_tag": ""
+                "product_tag": "以及售卖6.7万件",
+                "product_promo":"与你相守，直到天荒地老！"
             }
         ],
         "title": "为你推荐"

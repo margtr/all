@@ -1,19 +1,20 @@
 <template>
     <div id="app">
         <router-view />
-        <TabBar></TabBar>
+        
     </div>
 </template>
 <script>
 import Vue from "vue";
 import { Icon,Button } from "vant";
-import TabBar from "views/TabBar.vue";
+
 Vue.use(Icon);
 Vue.use(Button);
 
 export default {
     components: {
-        TabBar
+       
+        
     }
 };
 </script>

@@ -3,27 +3,27 @@
             <div class="panel-head">
                 <div class="panel-head-title">我的订单</div>
                 <div class="panel-head-right">
-                    <router-link to="">全部订单<van-icon name="arrow" /> </router-link>
+                    <router-link to="/Passport/Login">全部订单<van-icon name="arrow" /> </router-link>
                 </div>
             </div>
             <div class="panel-body">
                 <div class="order">
                     <div class="order-item">
-                        <router-link to=""  class="navigation">
+                        <router-link to="/Passport/Login"  class="navigation">
                             <img class="order-item-icon" src="https://img02.hua.com/m/member/center/myinfo_pendingpay.png" />
                             <p class="order-item-reddot" id="dfk"></p>
                             <p class="order-item-txt">待付款</p>
                          </router-link>
                     </div>
                     <div class="order-item">
-                        <router-link to=""  class="navigation">
+                        <router-link to="/Passport/Login"  class="navigation">
                             <img class="order-item-icon" src="https://img02.hua.com/m/member/center/myinfo_distribution.png" />
                             <p class="order-item-reddot" id="jrps"></p>
                             <p>今日配送</p>
                          </router-link>
                     </div>
                     <div class="order-item">
-                        <router-link to=""  class="navigation">
+                        <router-link to="/Passport/Login"  class="navigation">
                             <img class="order-item-icon" src="https://img02.hua.com/m/member/center/myinfo_evaluation.png" />
                             <p class="order-item-reddot" id="dpj"></p>
                             <p>待评价</p>

@@ -35,19 +35,19 @@
                         </router-link>
                     </div>
                     <div class="linkbox-item">
-                        <router-link to="" class="navigation">
+                        <router-link to="/Passport/Login" class="navigation">
                            <van-icon name="point-gift-o" class="add"/>
                             <p class="linkbox-item-txt">生日纪念提醒</p>
                         </router-link>
                     </div>
                     <div class="linkbox-item">
-                        <router-link to="" class="navigation">
+                        <router-link to="/Passport/Login" class="navigation">
                             <van-icon name="star-o" class="add" />
                             <p class="linkbox-item-txt">我的收藏</p>
                         </router-link>
                     </div>
                     <div class="linkbox-item">
-                        <router-link to="" class="navigation">
+                        <router-link to="/Passport/Login" class="navigation">
                             <van-icon name="underway-o" class="add" />
                             <p class="linkbox-item-txt">浏览记录</p>
                         </router-link>
